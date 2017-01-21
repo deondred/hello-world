@@ -1,2 +1,3 @@
 # hello-world
 An introductory repository utilized to help understand the innerworkings of github
+Umm ig thats all I have to say about this readme...
